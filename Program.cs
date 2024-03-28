@@ -1,3 +1,16 @@
 ﻿
-using var game = new BouncingBALL.Game1();
-game.Run();
+namespace BouncingBALL.src 
+{
+
+    class Program { 
+    
+        public static void Main() {
+
+            var game = new BouncingBALL.src.Game_sim();
+            game.Run();
+
+        }
+
+    }
+
+}

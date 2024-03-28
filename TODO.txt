@@ -1,0 +1,10 @@
+
+
+Stuff to implement
+
+1. drawing objects
+2. classes architecture
+3. logic of bouncing + drawing logic (only render new field, old is to be repainted in background color)
+4. basic song replay + replay configuration (tones, volume etc) [ plik midi ]
+5. customisation of background + effects
+6. UI + song selection 
